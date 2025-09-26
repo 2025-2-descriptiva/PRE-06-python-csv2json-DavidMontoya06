@@ -1,4 +1,4 @@
-## pip3 install nicegui
+# pip install nicegui
 """Script para convertir un archivo CSV a JSON"""
 
 import csv
